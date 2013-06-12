@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CellId</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="mail">Send e-mail</string>
+    <string name="vrijeme">10 min</string>
+    <string name="period">Period lociranja</string>
+
+</resources>
